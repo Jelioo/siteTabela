@@ -1,0 +1,19 @@
+ body {
+      padding: 0px;
+      margin: 0px;
+      background-color: #ADD8E6;
+    }
+    table{
+      text-align: center;
+    }
+h1{
+color: indigo;
+}
+
+h2{
+  color: midnightblue;
+}
+p{
+  color: brown;
+}
+ 
